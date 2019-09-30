@@ -1,5 +1,5 @@
 # cppe_examples
-Polarizable Embedding (PE) example calculations for the [CPPE library](https://github.com/maxscheurer/cppe) in various host programs:
+Polarizable Embedding (PE) example calculations employing the [CPPE library](https://github.com/maxscheurer/cppe) in various host programs:
 
 - PySCF: CAM-B3LYP
 - Psi4: EOM-CC2
